@@ -15,6 +15,7 @@
 		AA7E2F0325A8ECA3004CBF6E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AA7E2F0125A8ECA3004CBF6E /* LaunchScreen.storyboard */; };
 		AA7E2F0E25A8ECA3004CBF6E /* TippyTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7E2F0D25A8ECA3004CBF6E /* TippyTests.swift */; };
 		AA7E2F1925A8ECA3004CBF6E /* TippyUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7E2F1825A8ECA3004CBF6E /* TippyUITests.swift */; };
+		AA7E2F2A25A8F45E004CBF6E /* SettingViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AA7E2F2925A8F45E004CBF6E /* SettingViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		AA7E2F1425A8ECA3004CBF6E /* TippyUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TippyUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AA7E2F1825A8ECA3004CBF6E /* TippyUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TippyUITests.swift; sourceTree = "<group>"; };
 		AA7E2F1A25A8ECA3004CBF6E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AA7E2F2925A8F45E004CBF6E /* SettingViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				AA7E2EF625A8ECA1004CBF6E /* AppDelegate.swift */,
 				AA7E2EF825A8ECA1004CBF6E /* SceneDelegate.swift */,
 				AA7E2EFA25A8ECA1004CBF6E /* ViewController.swift */,
+				AA7E2F2925A8F45E004CBF6E /* SettingViewController.swift */,
 				AA7E2EFC25A8ECA1004CBF6E /* Main.storyboard */,
 				AA7E2EFF25A8ECA3004CBF6E /* Assets.xcassets */,
 				AA7E2F0125A8ECA3004CBF6E /* LaunchScreen.storyboard */,
@@ -261,6 +264,7 @@
 				AA7E2EFB25A8ECA1004CBF6E /* ViewController.swift in Sources */,
 				AA7E2EF725A8ECA1004CBF6E /* AppDelegate.swift in Sources */,
 				AA7E2EF925A8ECA1004CBF6E /* SceneDelegate.swift in Sources */,
+				AA7E2F2A25A8F45E004CBF6E /* SettingViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
