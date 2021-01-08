@@ -28,7 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/rC8N8HE.gifv' title='Tip Calculator' width='' />
+<img src='https://i.imgur.com/rC8N8HE.gifv' />
 
 
 
