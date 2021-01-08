@@ -28,9 +28,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/rC8N8HE.gifv' title='Tip Calculator' width='' alt='Video Walkthrough' />
+<img src='https://i.imgur.com/rC8N8HE.gifv' title='Tip Calculator' width='' />
 
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
+
 
 ## Notes
 
