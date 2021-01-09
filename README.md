@@ -35,7 +35,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Please use the Iphone 12 Pro Max for best quaility
+Please use the Iphone 12 Pro Max for best quaility and watch video under TiP Calculator files to see how it works.
 
 ## License
 
