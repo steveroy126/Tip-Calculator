@@ -34,7 +34,7 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Please use the Iphone 12 Pro Max for best quaility
 
 ## License
 
